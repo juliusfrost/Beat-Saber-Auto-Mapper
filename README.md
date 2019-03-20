@@ -17,3 +17,4 @@ TODO:
 2. Create mapping for both colors simultaneously 
 3. Make mapping more consitent, and repetitive at times
 4. Make mapping flow better
+5. Make sure different colors don't make impossible crossovers, overlapping notes
