@@ -5,10 +5,10 @@ Creates maps for the VR game Beat Saber.
 Turns a stream of beats into a random flow of notes.
 
 Example before:
-![](https://i.ytimg.com/vi/-1pFM2wf9l0/maxresdefault.jpg)
+![](before.png)
 
 Example after (WIP):
-![](https://i.ytimg.com/vi/0r0T9I-Stsw/maxresdefault.jpg)
+![](after.png)
 
 Note images not completely representative of what the code currently does.
 
