@@ -67,7 +67,7 @@ for i, note in enumerate(note_data):
     #lineIndex = note['_lineIndex']
     #lineLayer = note['_lineLayer']
     noteType = note['_type']
-    if noteType == 0:
+    if noteType == 1:
         continue
     #cutDirection = note['_cutDirection']
     
